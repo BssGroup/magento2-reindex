@@ -4,8 +4,8 @@
 
 ## 1. Documentation
 
-- Installation guide: <a href="https://bsscommerce.com/media/attachments/115_58be9812cb481_Installation_Guide-Reindex_from_Backend_for_Magento_2_Extension.pdf/" target="_blank">Get It Now!</a>
-- User Guide: <a href="https://bsscommerce.com/media/attachments/115_58be980260b24_User_Guide-Reindex_from_Backend_for_Magento_2_Extension.pdf/" target="_blank">Get It Now!</a>
+- Installation guide: <a href="https://bsscommerce.com/media/attachments/115_58be9812cb481_Installation_Guide-Reindex_from_Backend_for_Magento_2_Extension.pdf" target="_blank">Get It Now!</a>
+- User Guide: <a href="https://bsscommerce.com/media/attachments/115_58be980260b24_User_Guide-Reindex_from_Backend_for_Magento_2_Extension.pdf" target="_blank">Get It Now!</a>
 - Download from our Live site: https://bsscommerce.com/reindex-from-backend-for-magento-2.html/
 - Get Support: https://bsscommerce.freshdesk.com/support/home/
 - Contribute on Github: https://github.com/BssGroup/magento2-reindex/
