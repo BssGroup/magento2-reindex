@@ -55,7 +55,7 @@ In **Action box**: Choose **Reindex Data**.
 
 ☞ [One Step Checkout](https://bsscommerce.com/magento-2-one-step-checkout.html): alows customers to quickly checkout in one page only 
 
-☞ [Wholeale Fast Order](https://bsscommerce.com/magento-2-wholesale-fast-order.html): provides customers faster order than ever through a CMS page
+☞ [Wholesale Fast Order](https://bsscommerce.com/magento-2-wholesale-fast-order.html): provides customers faster order than ever through a CMS page
 
 ☞ [Defer Javascript](https://bsscommerce.com/magento-defer-javascript-extension-for-magento-2.html): speeds up Magento 2 websites by deferring JavaScript till the last moment
 
