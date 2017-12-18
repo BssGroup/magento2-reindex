@@ -1,5 +1,5 @@
 {
-    "name": "bsscommerce/magento-2-custom-product-attribute-export-extension",
+    "name": "bsscommerce/magento-2-reindex-extension",
     "description": "Bss Reindex Modules",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0"
