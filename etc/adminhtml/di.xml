@@ -10,23 +10,21 @@
  * It is also available through the world-wide-web at this URL:
  * http://bsscommerce.com/Bss-Commerce-License.txt
  *
- * =================================================================
- *                 MAGENTO EDITION USAGE NOTICE
- * =================================================================
- * This package designed for Magento COMMUNITY edition
- * BSS Commerce does not guarantee correct work of this extension
- * on any other Magento edition except Magento COMMUNITY edition.
- * BSS Commerce does not provide extension support in case of
- * incorrect edition usage.
- * =================================================================
- *
  * @category   BSS
  * @package    Bss_Reindex
  * @author     Extension Team
- * @copyright  Copyright (c) 2015-2016 BSS Commerce Co. ( http://bsscommerce.com )
+ * @copyright  Copyright (c) 2015-2018 BSS Commerce Co. ( http://bsscommerce.com )
  * @license    http://bsscommerce.com/Bss-Commerce-License.txt
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
 	<preference for="Magento\Indexer\Block\Backend\Grid\ItemsUpdater" type="Bss\Reindex\Block\Backend\Grid\ItemsUpdater" />
+
+	<type name="Magento\Framework\Notification\MessageList">
+		<arguments>
+			<argument name="messages" xsi:type="array">
+				<item name="coreModuleRequired" xsi:type="string">Bss\Reindex\Model\System\Message\CoreModuleRequired</item>
+			</argument>
+		</arguments>
+	</type>
 </config>
